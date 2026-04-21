@@ -1,0 +1,12 @@
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+torch>=2.2
+torchaudio>=2.2
+transformers>=4.39
+datasets>=2.18
+accelerate>=0.30
+librosa>=0.10
+soundfile>=0.12
+tabulate>=0.9
+edge-tts>=6.1.12

@@ -1,0 +1,1 @@
+Method: (1) Build target accent acoustic profile from real Common Voice samples using log-mel mean vector, spectral centroid stats, pitch stats, and RMS stats; (2) Generate TTS candidates with controlled prosody jitter (rate/pitch/volume); (3) Score each candidate by distance to accent profile; (4) Keep top-scoring candidates as synthetic data.

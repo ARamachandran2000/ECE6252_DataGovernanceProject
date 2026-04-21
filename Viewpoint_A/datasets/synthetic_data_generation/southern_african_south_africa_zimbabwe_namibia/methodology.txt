@@ -1,0 +1,1 @@
+Method: (1) Build target Southern African profile from Common Voice real samples using mel/centroid/pitch/RMS stats; (2) Generate candidates using African English TTS voices only (en-ZA, en-KE, en-NG, en-TZ) with controlled prosody jitter; (3) Score by distance to the target profile; (4) Keep top-scoring candidates.
